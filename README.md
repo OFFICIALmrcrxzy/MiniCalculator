@@ -8,5 +8,5 @@
 	 cd MiniCalculator
 
    
-	 python calculator_.py 
+	 python calculator.py 
 
