@@ -1,5 +1,3 @@
-# importmath 
-
 import math
 
 
